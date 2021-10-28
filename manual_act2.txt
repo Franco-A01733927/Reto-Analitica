@@ -1,0 +1,4 @@
+Para ejecutar el programa de Python para la actividad 2, es necesario correr los siguentes comandos:
+- sudo apt-get update
+- sudo apt-get -y python3-pip
+- pip3 install pandas

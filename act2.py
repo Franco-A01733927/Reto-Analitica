@@ -49,3 +49,33 @@ print("median: ", df['weekday'].median())
 print("std: ", df['weekday'].std())
 
 # %%
+#Beauty%
+print("valor mínimo: ", df['Beauty%'].min())
+print("valor máximo: ", df['Beauty%'].max())
+print("mean: ", df['Beauty%'].mean())
+print("median: ", df['Beauty%'].median())
+print("std: ", df['Beauty%'].std())
+
+# %%
+#Health%
+print("valor mínimo: ", df['Health%'].min())
+print("valor máximo: ", df['Health%'].max())
+print("mean: ", df['Health%'].mean())
+print("median: ", df['Health%'].median())
+print("std: ", df['Health%'].std())
+
+# %%
+#Baby%
+print("valor mínimo: ", df['Baby%'].min())
+print("valor máximo: ", df['Baby%'].max())
+print("mean: ", df['Baby%'].mean())
+print("median: ", df['Baby%'].median())
+print("std: ", df['Baby%'].std())
+
+# %%
+#Pets%
+print("valor mínimo: ", df['Pets%'].min())
+print("valor máximo: ", df['Pets%'].max())
+print("mean: ", df['Pets%'].mean())
+print("median: ", df['Pets%'].median())
+print("std: ", df['Pets%'].std())

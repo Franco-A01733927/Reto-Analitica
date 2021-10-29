@@ -16,3 +16,9 @@ plt.show()
 sns.scatterplot(data=df, x="total_items", y="discount%")
 plt.show()
 # %%
+sns.heatmap(df.corr(),annot=True)
+# %%
+sns.displot(data=df, x="weekday", y="Food%")
+# %%
+sns.histplot(data=df, x="customer", hue="discount%", multiple="stack")
+# %%

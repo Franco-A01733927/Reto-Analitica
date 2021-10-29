@@ -49,6 +49,46 @@ print("median: ", df['weekday'].median())
 print("std: ", df['weekday'].std())
 
 # %%
+#hour
+print("valor mínimo: ", df['hour'].min())
+print("valor máximo: ", df['hour'].max())
+print("mean: ", df['hour'].mean())
+print("median: ", df['hour'].median())
+print("std: ", df['hour'].std())
+
+# %%
+#Food%
+print("valor mínimo: ", df['Food%'].min())
+print("valor máximo: ", df['Food%'].max())
+print("mean: ", df['Food%'].mean())
+print("median: ", df['Food%'].median())
+print("std: ", df['Food%'].std())
+
+# %%
+#Fresh%
+print("valor mínimo: ", df['Fresh%'].min())
+print("valor máximo: ", df['Fresh%'].max())
+print("mean: ", df['Fresh%'].mean())
+print("median: ", df['Fresh%'].median())
+print("std: ", df['Fresh%'].std())
+
+# %%
+#Drinks%
+print("valor mínimo: ", df['Drinks%'].min())
+print("valor máximo: ", df['Drinks%'].max())
+print("mean: ", df['Drinks%'].mean())
+print("median: ", df['Drinks%'].median())
+print("std: ", df['Drinks%'].std())
+
+# %%
+#Home%
+print("valor mínimo: ", df['Home%'].min())
+print("valor máximo: ", df['Home%'].max())
+print("mean: ", df['Home%'].mean())
+print("median: ", df['Home%'].median())
+print("std: ", df['Home%'].std())
+
+# %%
 #Beauty%
 print("valor mínimo: ", df['Beauty%'].min())
 print("valor máximo: ", df['Beauty%'].max())
